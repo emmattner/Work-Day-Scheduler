@@ -23,3 +23,30 @@ $('#hour-17.description').val(localStorage.getItem("hour-17")),
 
 $('#currentDay').text(dayjs().format('D MMM YYYY'))
 )
+
+var now = dayjs().hour()
+
+for (var i = 9; i <18; i++)
+{
+    var item = document.querySelector(`#hour-${i}`);
+    if (i < now) 
+    {
+        item.classList.add("past")
+        item.classList.remove("present")
+        item.classList.remove("future");
+    }
+    else if (i === now) 
+    {
+        item.classList.add("past");
+        item.classList.remove("present");
+        item.classList.remove("future");
+    }
+    else
+    {
+        item.classList.add("past");
+        item.classList.remove("present");
+        item.classList.remove("future");
+    }
+}
+
+console.log("", value)
