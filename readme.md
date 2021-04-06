@@ -4,7 +4,7 @@ Here I have created a work day scheduler. This can be used to schedule day to da
 
 # What did I learn
 
-I further developed my knowledge of local storage abilities whilie implementing a new understanding of jQuery, Bootstrap and DayJS to create a dynamic application.
+I further developed my knowledge of local storage abilities while implementing a new understanding of jQuery, Bootstrap and DayJS to create a dynamic application.
 This application tested my understanding of Third Party API'S in particular DayJS to access the current time and date and jQuery which provides a simplified alternaitve to standard Javascript.
 
 # Deployment Link
