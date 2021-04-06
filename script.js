@@ -26,7 +26,7 @@ $('#currentDay').text(dayjs().format('D MMM YYYY'))
 
 var now = dayjs().hour()
 
-for (var i = 9; i <18; i++)
+for (var i = 9; i < 18; i++)
 {
     var item = document.querySelector(`#hour-${i}`);
     if (i < now) 
@@ -37,14 +37,14 @@ for (var i = 9; i <18; i++)
     }
     else if (i === now) 
     {
-        item.classList.add("past");
-        item.classList.remove("present");
+        item.classList.add("present");
+        item.classList.remove("past");
         item.classList.remove("future");
     }
     else
     {
-        item.classList.add("past");
+        item.classList.add("future");
+        item.classList.remove("past");
         item.classList.remove("present");
-        item.classList.remove("future");
     }
 }
