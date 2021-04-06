@@ -14,7 +14,7 @@ This application tested my understanding of Third Party API'S in particular DayJ
 
 
 <img width="1379" alt="work-day-scheduler" src="https://user-images.githubusercontent.com/78684306/113711987-bcf93e80-9724-11eb-8696-97f064ad39c8.png">
-<img width="1402" alt="work-day-scheduler-2" src="https://user-images.githubusercontent.com/78684306/113717798-25e3b500-972b-11eb-87ae-df0052f09776.png">
+<img width="1379" alt="work-day-scheduler-2" src="https://user-images.githubusercontent.com/78684306/113717798-25e3b500-972b-11eb-87ae-df0052f09776.png">
 
 
 
