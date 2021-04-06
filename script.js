@@ -48,5 +48,3 @@ for (var i = 9; i <18; i++)
         item.classList.remove("future");
     }
 }
-
-console.log("", value)
