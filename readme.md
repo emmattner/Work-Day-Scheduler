@@ -9,6 +9,8 @@ This application tested my understanding of Third Party API'S in particular DayJ
 
 # DEPLOYMENT LINK 
 
+ https://emmattner.github.io/Work-Day-Scheduler/
+
 
 
 <img width="1379" alt="work-day-scheduler" src="https://user-images.githubusercontent.com/78684306/113711987-bcf93e80-9724-11eb-8696-97f064ad39c8.png">
