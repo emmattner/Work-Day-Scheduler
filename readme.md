@@ -1,4 +1,4 @@
-## Work Day Scheduler
+# Work Day Scheduler
 
 # Description
 Here I have created a work day scheduler. This can be used to schedule day to day jobs or activities by writing into the input box and pressing the save button to save to the input into local storage. 
